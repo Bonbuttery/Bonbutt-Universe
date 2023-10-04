@@ -1,0 +1,10 @@
+Sample,SVM,DL,LASSO,LDA,NB,Ensemble,Nnet
+Saliva,1,0,0,0,0,0,1
+Histopath,0,9,0,0,0,0,0
+Genetic,2,0,0,0,0,0,0
+CT,2,1,1,0,0,0,0
+Blood,0,0,0,1,0,2,0
+MRI,0,0,0,0,1,0,0
+Breath,0,1,0,0,1,0,0
+Tongue,0,1,0,0,0,0,0
+Profile,0,0,0,0,0,1,0
