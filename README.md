@@ -1,6 +1,6 @@
 # Bonbutt-Universe
 
-Hallooo Halloo Hallooo!!!
+Hellooo Hola Hallooo Bonjour Konnichiwa Kamusta!!!
 
 
 ### Welcome To My Humble Aboditory (abode + repository [entiendes? 😂]) within the BonButt Universe hehehe
