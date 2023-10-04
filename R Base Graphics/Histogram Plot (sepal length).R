@@ -1,0 +1,1 @@
+hist(iris$Sepal.Length[iris$Species == "versicolor"], col="magenta", xlab = "Sepal Length of Versicolor", ylab = "Frequency", main = "Histogram of Sepal Length of Versicolor", breaks = 30)
