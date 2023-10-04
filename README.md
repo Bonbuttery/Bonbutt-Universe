@@ -5,7 +5,7 @@ Hallooo Halloo Hallooo!!!
 
 ### Welcome To My Humble Aboditory (abode + repository [entiendes? 😂]) within the BonButt Universe hehehe
 
-In this repository, I will be storing my activities from my Data Science course consisting of different coding exercises, data visualization activities, and such using the R programming language. 
+In this repository, I will be storing my activities from my Data Science course consisting of different coding exercises, data visualization activities, and such using the **R programming language.** 
 
 #### Listed Below are Some of My Previous Activities (P.S. I am new to this so plss don't judge me harshly hehe + I'll be updating this list when I upload more)
 
