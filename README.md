@@ -22,3 +22,6 @@ In this repository, I will be storing my activities from my Data Science course 
 5. My Coding Exam 1
 
 
+For the purpose of improving each other's coding skills, the contents of this repository are available for revisions and comments. You are welcome to modify, analyze, and utilize these outputs however you like. Simply remember to give credit :)))
+
+
